@@ -1,12 +1,12 @@
 body {
-  background-color: #FFFFE0; /* warna cerah*/
-  font-family: Arial, sans-serif;/* jenis font*/
+  background-color: #FFFFE0; 
+  font-family: Arial, sans-serif;
   color: #191970;
  }
 .kartu-profil{
   width: 300px;
   margin: 50px auto;
-  padding: 20px
+  padding: 20px;
   background-color: white;
   border-radius: 15px;
   box-shadow:0 4px 8px rgb(0,0,0,0.1);
